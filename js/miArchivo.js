@@ -33,7 +33,7 @@ while(opcion != 3){
         case 1:
             for(const tienda of clientes){
                 let cuotas = parseInt(prompt("En cuatas cuotas quiere sacar cada producto (Maximo 12):"));
-
+                
                 if(cuotas > 0 && cuotas <= 12){
                     alert(tienda.nombre + "\nValor de cuota: " + tienda.calcularCuota(cuotas));
                 }else{
@@ -49,6 +49,11 @@ while(opcion != 3){
         break;
     }
 }
+
+let container = document.getElementById("titulo");
+console.log(container.innerText);
+
+container.innerHTML = "<h1>Nuevo Titulo</h1>";
 
 
 
