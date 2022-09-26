@@ -1,0 +1,243 @@
+{
+    "stockProd": [
+        {
+            "id": 1,
+            "nombre": "Macbook Pro 16p 512 GB - Gris Espacial",
+            "tipo": "Laptop",
+            "cantidad": 1,
+            "precio": 410000,
+            "marca": "Apple",
+            "img": "/Images/MacbookPro.jpg"
+        },
+
+        {
+            "id": 2,
+            "nombre": "Macbook Air 13p 256 GB - Plateado",
+            "tipo": "Laptop",
+            "cantidad": 1,
+            "precio": 320000,
+            "marca": "Apple",
+            "img": "/Images/MacbookAir.jpg"
+        },
+
+        {
+            "id": 3,
+            "nombre": "Laptop Dell Inspiron 3505 15p 256 GB - 12 GB RAM",
+            "tipo": "Laptop",
+            "cantidad": 1,
+            "precio": 184000,
+            "marca": "Dell",
+            "img": "/Images/Dell-Inspiron.jpg"
+        },
+
+        {
+            "id": 4,
+            "nombre": "Laptop HP 15-ef2126wn 256 GB - 8 GB RAM",
+            "tipo": "Laptop",
+            "cantidad": 1,
+            "precio": 151000,
+            "marca": "HP",
+            "img": "/Images/Notebook-HP.jpg"
+        },
+
+        {
+            "id": 5,
+            "nombre": "Samsung Galaxy A10",
+            "tipo": "Celular",
+            "cantidad": 1,
+            "precio": 70000,
+            "marca": "Samsung",
+            "img": "/Images/SamsungGalaxyA10.jpg"
+        },
+
+        {
+            "id": 6,
+            "nombre": "Iphone 13 Pro Max",
+            "tipo": "Celular",
+            "cantidad": 1,
+            "precio": 250000,
+            "marca": "Apple",
+            "img": "/Images/Iphone13ProMax.jpg"
+        },
+
+        {
+            "id": 7,
+            "nombre": "Xiaomi Redmi Note 11",
+            "tipo": "Celular",
+            "cantidad": 1,
+            "precio": 50000,
+            "marca": "Xiaomi",
+            "img": "/Images/XiaomiRedmiNote11.jpg"
+        },
+
+        {
+            "id": 8,
+            "nombre": "Iphone 12 Mini",
+            "tipo": "Celular",
+            "cantidad": 1,
+            "precio": 220000,
+            "marca": "Apple",
+            "img": "/Images/Iphone12Mini.jpg"
+        },
+
+        {
+            "id": 9,
+            "nombre": "Monitor Gamer Samsung F24T35 LED 24",
+            "tipo": "Monitor",
+            "cantidad": 1,
+            "precio": 48000,
+            "marca": "Samsung",
+            "img": "/Images/MonitorSamsungComun.jpg"
+        },
+
+        {
+            "id": 10,
+            "nombre": "Monitor Gamer LG UltraWide 29WP500 LCD 29",
+            "tipo": "Monitor",
+            "cantidad": 1,
+            "precio": 62000,
+            "marca": "LG",
+            "img": "/Images/MonitorLG.jpg"
+        },
+
+        {
+            "id": 11,
+            "nombre": "Monitor Gamer Curvo Samsung Odyssey G5",
+            "tipo": "Monitor",
+            "cantidad": 1,
+            "precio": 120000,
+            "marca": "Samsung",
+            "img": "/Images/MonitorSamsungCurvo.jpg"
+        },
+
+        {
+            "id": 12,
+            "nombre": "Monitor Benq GW2480 LED 24",
+            "tipo": "Monitor",
+            "cantidad": 1,
+            "precio": 42000,
+            "marca": "Benq",
+            "img": "/Images/MonitorBenq.jpg"
+        },
+
+        {
+            "id": 13,
+            "nombre": "Memoria Geil DDR4 16 GB 3000 MHz",
+            "tipo": "Memoria Ram",
+            "cantidad": 1,
+            "precio": 13000,
+            "marca": "Geil",
+            "img": "/Images/MemoriaRamGeil.jpg"
+        },
+
+        {
+            "id": 14,
+            "nombre": "Memoria Adata DDR4 4GB 2666 MHz",
+            "tipo": "Memoria Ram",
+            "cantidad": 1,
+            "precio": 14000,
+            "marca": "Adata",
+            "img": "/Images/MemoriaRamAdata4gb.jpg"
+        },
+
+        {
+            "id": 15,
+            "nombre": "Memoria Adata DDR4 8GB 2666 MHz",
+            "tipo": "Memoria Ram",
+            "cantidad": 1,
+            "precio": 13500,
+            "marca": "Adata",
+            "img": "/Images/MemoriaRamAdata8gb.jpg"
+        },
+
+        {
+            "id": 16,
+            "nombre": "Memoria Patriot Viper DDR4 8GB 3200 MHz",
+            "tipo": "Memoria Ram",
+            "cantidad": 1,
+            "precio": 14300,
+            "marca": "Patriot",
+            "img": "/Images/MemoriaPatriot.jpg"
+        },
+
+        {
+            "id": 17,
+            "nombre": "Sony Playstation 5 825GB Edicion Digital",
+            "tipo": "Consola",
+            "cantidad": 1,
+            "precio": 310000,
+            "marca": "Sony",
+            "img": "/Images/Playstation5.jpg"
+        },
+
+        {
+            "id": 18,
+            "nombre": "Sony Playstation 4 500GB",
+            "tipo": "Consola",
+            "cantidad": 1,
+            "precio": 210000,
+            "marca": "Sony",
+            "img": "/Images/Playstation4.jpg"
+        },
+
+        {
+            "id": 19,
+            "nombre": "Xbox Series S 512GB Edicion Estandar",
+            "tipo": "Consola",
+            "cantidad": 1,
+            "precio": 180000,
+            "marca": "Microsoft",
+            "img": "/Images/XboxSeriesS.jpg"
+        },
+
+        {
+            "id": 20,
+            "nombre": "Xbox Series X 1TB Edicion Estandar",
+            "tipo": "Consola",
+            "cantidad": 1,
+            "precio": 220000,
+            "marca": "Microsoft",
+            "img": "/Images/XboxSeriesX.jpg"
+        },
+
+        {
+            "id": 21,
+            "nombre": "Placa de Video Nvidia MSI Ventus GeForce RTX 30 Series",
+            "tipo": "Placas de video",
+            "cantidad": 1,
+            "precio": 133000,
+            "marca": "MSI",
+            "img": "/Images/PlacaDeVideoMSI.jpg"
+        },
+
+        {
+            "id": 22,
+            "nombre": "Placa de Video Nvidia Evga SC Gaming GeForce GTX 16 Series",
+            "tipo": "Placas de video",
+            "cantidad": 1,
+            "precio": 90000,
+            "marca": "Evga",
+            "img": "/Images/PlacaDeVideoEvga.jpg"
+        },
+
+        {
+            "id": 23,
+            "nombre": "Placa de Video Nvidia ASUS TUF Gaming GeForce RTX 3060",
+            "tipo": "Placas de video",
+            "cantidad": 1,
+            "precio": 110000,
+            "marca": "Asus",
+            "img": "/Images/PlacaDeVideoAsus.jpg"
+        },
+
+        {
+            "id": 24,
+            "nombre": "Placa de Video Nvidia Gigabyte GeForce GTX 16 Series",
+            "tipo": "Placas de video",
+            "cantidad": 1,
+            "precio": 80000,
+            "marca": "Gigabyte",
+            "img": "/Images/PlacaDeVideoGigabyte.jpg"
+        }
+    ]
+}
